@@ -7,6 +7,6 @@ A continuación, una vez hayas sido aceptado como trabajador, podrás modificar 
 
 -Raviolis (nombre_trabajador)
 
-Recuerda actualizar el repositorio para que no se solapen tus sugerencias ocn las de los demás trabajadores.
+Recuerda actualizar el repositorio para que no se solapen tus sugerencias con las de los demás trabajadores.
 
 Por último escribe tu nombre en el puesto en el que te gustaría trabajar.
